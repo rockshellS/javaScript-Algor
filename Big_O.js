@@ -23,3 +23,10 @@
 
 
 // * f(n) could be something entirely different!
+
+
+
+//examples 
+// O(2n)  would be O(n)
+// O(500) would be O(1)
+// O(13n*n) would be O(n*n)
