@@ -30,3 +30,24 @@
 // O(2n)  would be O(n)
 // O(500) would be O(1)
 // O(13n*n) would be O(n*n)
+
+
+
+// Big O shorthands
+// 1. Arithmetic operations are contant
+
+
+
+// 2. Variable assignments is contant
+
+
+
+// 3. Accessing elements in an array (by index) or object(by key) is contant
+
+
+
+// 4. in a loop, the complexity is the length of the loop times the complexity of whatever happens inside of the loop
+
+
+
+//
