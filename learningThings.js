@@ -30,3 +30,18 @@
 
 // var myFather = new Person("John", "Doe", 50, "blue");
 // var myMother = new Person("Sally", "Rally", 48, "green");
+
+
+// Javascript doesn't need constructor functions because any function can return a new abject. With dynamic object extension,
+// ovbject literals and 'Object.create()' , we have everything we need-- none of the mess.
+//  And 'this' behaves just like it does in any other function.
+
+// Classical Inheritance -lets you inherit only from a single ancestor
+
+
+//     The copy mechanism is another form of prototypal inheritance. Sources of clone properties are a specific kind of prototype called exemplar prototypes, 
+//         and cloning an exemplar prototype is known as concatenative inheritance.
+//    You can copy/extend object properties using object spread syntax: {…a, …b}.
+
+// Concatenative inheritance is possible because of a feature in JavaScript known as dynamic object extension: 
+//   the ability to add to an object after it has been instantiated.
